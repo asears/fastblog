@@ -64,11 +64,6 @@ print(1+1)
     2
 
 
-## Tables
-
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
 
 
 ## Tweetcards
